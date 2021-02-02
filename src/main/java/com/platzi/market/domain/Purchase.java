@@ -65,7 +65,7 @@ public class Purchase {
         return items;
     }
 
-    public void setItems(List<PurchaseItem> item) {
+    public void setItems(List<PurchaseItem> items) {
         this.items = items;
     }
 }
